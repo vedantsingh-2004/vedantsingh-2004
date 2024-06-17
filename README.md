@@ -10,18 +10,23 @@ I've been having a blast diving into the MERN stack, creating web apps that seam
 <p align="left"> <a href="https://twitter.com/vedant2101" target="blank"><img src="https://img.shields.io/twitter/follow/vedant2101?logo=twitter&style=for-the-badge" alt="vedant2101" /></a> </p>
 
 - 🔭 At present, my creative energies are channeled into **Campus Connect - Intra Univrsity Connection Building App**
+  
 
+- 📫 You can reach out to me at: **vedantmanishsingh2004@gmail.com**
+
+  
 - 🌱 I’m currently learning **JavaScript, React, DSA, UI/UX**
 
-- 📝 I occasionally pen articles on [https://medium.com/@vedantsingh21](https://medium.com/@vedantsingh21)
 
 - 💬 Ask me about **UI/UX, Frontend Development, C, C++**
 
-- 📫 How to reach me **vedantmanishsingh2004@gmail.com**
 
 - 🤝  I'm open to collaborating on any project realted to Frontend and Web Development
 
+- 📝 I occasionally pen articles on [https://medium.com/@vedantsingh21](https://medium.com/@vedantsingh21)
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1e5kMNFC6Y0AssNnaiWQrlLp_IyhrsiAO/view?usp=sharing](https://drive.google.com/file/d/1e5kMNFC6Y0AssNnaiWQrlLp_IyhrsiAO/view?usp=sharing)
+
 
 - ⚡ Fun fact **I like to think of myself as a coding comedian, always ready with a pun or a quirky programming joke. Always hungry to learn, I'm constantly chasing the latest trends and geeking out on emerging tech.**
 
