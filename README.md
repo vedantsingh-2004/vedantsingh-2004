@@ -31,10 +31,6 @@ I've been having a blast diving into the MERN stack, creating web apps that seam
 <a href="https://linkedin.com/in/vedantsingh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantsingh21" height="30" width="40" /></a>
 <a href="https://kaggle.com/vedant2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedant2101" height="30" width="40" /></a>
 <a href="https://instagram.com/_vedantsinghh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vedantsinghh" height="30" width="40" /></a>
-<a href="vedantmanishsingh2004@gmail.com" target="_blank">
-<img src="![image](https://github.com/vedantsingh-2004/vedantsingh-2004/assets/124801371/59c8a3b6-9bfe-4e06-8624-ac772aa63efa)
-" height="30" width="40" alt="gmail logo" />
-</a>
 <a href="https://medium.com/@vedantsingh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vedantsingh21" height="30" width="40" /></a>
 </p>
 
