@@ -1,3 +1,4 @@
+![logo](https://github.com/vedantsingh-2004/vedantsingh-2004/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vedant Singh</h1>
 <h3 align="center">An ardent third-year engineering student at MIT World Peace University, devoted to the artistry of front-end development and the elegance of UI/UX design. With a robust foundation in computer science and engineering, I wield my technical prowess to craft seamless and intuitive user experiences.</h3>
 
