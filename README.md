@@ -45,7 +45,6 @@
 <a href="https://kaggle.com/vedant2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedant2101" height="30" width="40" /></a>
 <a href="https://instagram.com/_vedantsinghh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vedantsinghh" height="30" width="40" /></a>
 <a href="https://medium.com/@vedantsingh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vedantsingh21" height="30" width="40" /></a>
-<a href="mailto:vedantmanishsingh2004@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Vedant Singh | Gmail" height ="35" width="40" style="margin-left: 20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
