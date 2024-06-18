@@ -6,7 +6,7 @@
   
 <p align="center"> 
 <i>
-  An ardent <b>third-year engineering</b> student at <a href = "https://mitwpu.edu.in/"> <b>MIT World Peace University</b> </a>, devoted to the artistry of <b>front-end development</b> and the elegance of <b>UI/UX design</b>. With a robust foundation in <b>computer science and engineering</b>, I wield my technical prowess to craft seamless and <b>intuitive user experiences</b>. I've been having a blast diving into the <b>MERN stack</b>, creating web apps that seamlessly blend the front and back ends. It's been an amazing journey, but what really gets me excited is the <b>magic of the frontend</b>. I love hitting that sweet spot where things <b>not only look great but also work beautifully</b>. </i></p>
+  An ardent <b>third-year engineering</b> student at <a href = "https://mitwpu.edu.in/"> <b>MIT World Peace University,</b> </a> devoted to the artistry of <b>front-end development</b> and the elegance of <b>UI/UX design</b>. With a robust foundation in <b>computer science and engineering</b>, I wield my technical prowess to craft seamless and <b>intuitive user experiences</b>. I've been having a blast diving into the <b>MERN stack</b>, creating web apps that seamlessly blend the front and back ends. It's been an amazing journey, but what really gets me excited is the <b>magic of the frontend</b>. I love hitting that sweet spot where things <b>not only look great but also work beautifully</b>. </i></p>
 
 
 ---
